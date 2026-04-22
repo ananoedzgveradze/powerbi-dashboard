@@ -40,6 +40,7 @@ Focus: Advanced analytics and insights
 - Growth Drivers by Category  
 
 ![Gold Dashboard](Gold.jpg)
+![sales_dashboard](sales_dashboard.png)
 
 ---
 
